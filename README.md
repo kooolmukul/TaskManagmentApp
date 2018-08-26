@@ -6,5 +6,5 @@ Features -
 1. create task
 2. update task
 3. delete task
-4. Notify the assignee by email about task
-5.View task list
+4. Notify the assignee by email about task.
+5. View task list
